@@ -290,7 +290,7 @@ button:hover {
 }
 
 .card img {
-  filter: grayscale(60%) brightness(1.2) contrast(1.2);
+  /* filter: grayscale(60%) brightness(1.2) contrast(1.2); */
 }
 
 .card table {
